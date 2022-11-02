@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Firebase-firestore, Data Structures & Algos**
 
-<h3 align="left">Please connect with me:</h3>
+<h3 align="left">Please feel free to connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miliconde24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miliconde24" height="30" width="40" /></a>
 </p>

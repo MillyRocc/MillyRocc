@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mili Conde</h1>
 <h3 align="center">A passionate fullstack software engineer from NYC!</h3>
 
-- 🌱 I’m currently learning **Firebase-firestore, Data Structures & Algos**
+- 🌱 I’m currently learning **Firebase-firestore & TypeScript**
 
 <h3 align="left">Please feel free to connect with me here:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mili Conde</h1>
-<h3 align="center">A passionate fullstack software engineer from NYC!</h3>
+<h3 align="center">I am a passionate fullstack software engineer from NYC with a love of using javascript to turn my idea into life!</h3>
 
 - 🌱 I’m currently learning **Firebase-firestore & TypeScript**
 
